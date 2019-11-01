@@ -1,0 +1,11 @@
+canal:
+  client:
+    instances:
+      example:
+        clusterEnabled: false
+        host: 172.20.15.32
+        port: 11111
+        batchSize: 3
+        #filter: .*\\..*
+        retryCount: 5
+        acquireInterval: 1000

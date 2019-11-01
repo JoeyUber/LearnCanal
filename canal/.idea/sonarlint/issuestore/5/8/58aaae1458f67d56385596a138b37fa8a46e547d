@@ -1,0 +1,54 @@
+
+V
+squid:S106f"9Replace this use of System.out or System.err by a logger.(ßøÿÃ8´—Ö“ß-
+|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(’é‡8´—Ö“ß-
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Â–‘ö8´—Ö“ß-
+‚squid:S11494"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÔğÂ»øÿÿÿÿ8´—Ö“ß-
+V
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ßøÿÃ8´—Ö“ß-
+[
+squid:S106z"9Replace this use of System.out or System.err by a logger.(ºªàùÿÿÿÿ8´—Ö“ß-
+Rsquid:S16116"/Remove the parentheses around the "c" parameter(Å’Àßşÿÿÿÿ8´—Ö“ß-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‰Øö8´—Ö“ß-
+V
+squid:S106m"9Replace this use of System.out or System.err by a logger.(ßøÿÃ8´—Ö“ß-
+[
+squid:S106d"9Replace this use of System.out or System.err by a logger.(áÒ÷ÿÿÿÿÿ8´—Ö“ß-
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ŠñŸĞıÿÿÿÿ8´—Ö“ß-
+V
+squid:S106["9Replace this use of System.out or System.err by a logger.(Â–‘ö8´—Ö“ß-
+:squid:S1643M"Use a StringBuilder instead.(ÀğÒ³8´—Ö“ß-
+[
+squid:S106y"9Replace this use of System.out or System.err by a logger.(’ºÖÏûÿÿÿÿ8´—Ö“ß-
+‚squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆöó¿şÿÿÿÿ8´—Ö“ß-
+[
+squid:S106s"9Replace this use of System.out or System.err by a logger.(÷°²àûÿÿÿÿ8´—Ö“ß-
+|squid:S1149O"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¹Íİ88´—Ö“ß-
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(Ëøù¦úÿÿÿÿ8´—Ö“ß-
+V
+squid:S106{"9Replace this use of System.out or System.err by a logger.(ßøÿÃ8´—Ö“ß-
+Rsquid:S1611 "/Remove the parentheses around the "c" parameter(Å’Àßşÿÿÿÿ8´—Ö“ß-
+}squid:S11495"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ãÀ’¹8´—Ö“ß-
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Â–‘ö8´—Ö“ß-
+V
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ßøÿÃ8´—Ö“ß-
+:squid:S1643Z"Use a StringBuilder instead.(‹Æ÷Š8´—Ö“ß-
+V
+squid:S106t"9Replace this use of System.out or System.err by a logger.(ßøÿÃ8´—Ö“ß-
+[
+squid:S106k"9Replace this use of System.out or System.err by a logger.(ª¥ìÿÿÿÿÿ8´—Ö“ß-
+[
+squid:S106l"9Replace this use of System.out or System.err by a logger.(÷°²àûÿÿÿÿ8´—Ö“ß-
+[
+squid:S106e"9Replace this use of System.out or System.err by a logger.(÷°²àûÿÿÿÿ8´—Ö“ß-
+—squid:S1192)"yDefine a constant instead of duplicating this literal "\n======================================================" 7 times.(ßøÿÃ8´—Ö“ß-
+V
+squid:S106r"9Replace this use of System.out or System.err by a logger.(ùÕŒü8´—Ö“ß-
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ßøÿÃ8´—Ö“ß-
+‚squid:S1149N"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ƒËˆ¨ÿÿÿÿÿ8´—Ö“ß-
